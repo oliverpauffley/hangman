@@ -1,5 +1,5 @@
 { pkgs, ... }: {
-  # name = "project-name";
+  name = "hangman";
   compiler-nix-name = "ghc928"; # Version of GHC to use
 
   crossPlatforms = p:
